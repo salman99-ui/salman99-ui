@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @salman99-ui
-- 👀 I’m interested in Software Engginer
-- 🌱 I’m currently learning MERN ( MongoDB , Express , Reactjs , NodeJs )
+- 👋 Hi, I’m Salman Damanhuri
+- I’m interested in Web Development
+- I’m currently learning MERN ( MongoDB , Express , Reactjs , NodeJs ) & React Native 
+
 
 
 <!---
